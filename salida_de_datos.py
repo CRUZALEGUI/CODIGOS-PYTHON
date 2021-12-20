@@ -1,4 +1,4 @@
-#SALIDA DE DATOS
+#SALIDA DE DATOS EN TERMINAL
 
 nombre='Renato'
 edad=24
